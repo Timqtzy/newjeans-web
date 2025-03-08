@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Nosifer&family=Outfit:wght@100..900&family=Zen+Dots&display=swap");
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  font-family: "Nosifer", sans-serif;
+  color: black;
+}
+
+.page {
+  font-family: "Outfit", sans-serif;
+  font-weight: bold;
+}
+
+.pageTitle {
+  font-family: "Zen Dots", sans-serif;
+  font-weight: bold;
+}
