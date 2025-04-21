@@ -23,31 +23,31 @@ Deployment: Vercel
 
 
 📂 Project Structure
-src/
+`src/
 ├── img/          # Images, videos, logos
 ├── gallery/          # Images, videos, logos
 ├── components/      # Reusable components (Navbar, ProfileCard, Cards)
 ├── pages/           # Pages like Home, Discography, Gallery, Profile, Video
-└── App.jsx          # Main app file
+└── App.jsx          # Main app file`
 
 
 🚀 Getting Started
 To run this project locally:
 
 Clone the repo:
-git clone https://github.com/Timqtzy/newjeans-web.git
+`git clone https://github.com/Timqtzy/newjeans-web.git`
 
 
 Navigate to the project folder:
-cd newjeans-website
+`cd newjeans-web`
 
 
 Install dependencies:
-npm install
+`npm install`
 
 
 Run the development server:
-npm run dev
+`npm run dev`
 
 
 
