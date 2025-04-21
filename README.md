@@ -23,6 +23,7 @@ Deployment: Vercel
 
 
 📂 Project Structure
+
 `src/
 ├── img/          # Images, videos, logos
 ├── gallery/          # Images, videos, logos
